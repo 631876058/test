@@ -8,5 +8,6 @@ public class NowApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NowApplication.class, args);
+		System.out.println("asdf");
 	}
 }
